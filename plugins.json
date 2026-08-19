@@ -1,0 +1,12 @@
+[
+  {
+    "repo": "saewoo-dalamud/HuntTrainAssistant",
+    "manifestPath": "HuntTrainAssistant/HuntTrainAssistant.json",
+    "iconPath": "HuntTrainAssistant/images/icon.png"
+  },
+  {
+    "repo": "saewoo-dalamud/ffxiv_glamourlog",
+    "manifestPath": "GlamourLog/GlamourLog.json",
+    "iconPath": "GlamourLog/images/icon.png"
+  }
+]
